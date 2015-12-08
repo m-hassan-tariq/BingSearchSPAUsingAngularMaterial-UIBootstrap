@@ -12,12 +12,9 @@ Using Angular Material, Angular UI Bootstrap, ASP.NET WebAPI and Bing API in imp
 - Pagination: https://angular-ui.github.io/bootstrap/#/pagination
 - Carousel: https://angular-ui.github.io/bootstrap/#/carousel
 
-![pastedimage](https://cloud.githubusercontent.com/assets/10474169/10745636/98f8b3f0-7c11-11e5-88e4-1006af091206.png)
+**App Directory Structure**
 
-**IIFE**
-- Wrap Angular components in an Immediately Invoked Function Expression (IIFE).
-
-![pastedimage 1](https://cloud.githubusercontent.com/assets/10474169/10745625/98de3cf0-7c11-11e5-82b1-e356ee6b13c3.png)
+![1](https://cloud.githubusercontent.com/assets/10474169/11671501/78512d06-9dce-11e5-85be-c8d904f90f21.png)
 
 **Definitions (aka Setters)**
 - Declare modules without a variable using the setter syntax.
