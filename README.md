@@ -33,66 +33,59 @@ Using Angular Material, Angular UI Bootstrap, ASP.NET WebAPI and Bing API in imp
 
 ![5](https://cloud.githubusercontent.com/assets/10474169/11671602/2f3e3e46-9dcf-11e5-9d53-8ddc3bfb8552.png)
 
-**controllerAs View Syntax**
-- Use the controllerAs syntax over the classic controller with $scope syntax.
-- Use a capture variable for this when using the controllerAs syntax. Choose a consistent variable name such as vm, which stands for ViewModel.
-- When a controller must be paired with a view and either component may be re-used by other controllers or views, define controllers along with their routes.
+**Controller Structure**
+-	JS closure using IIFE
+-	Controller As implementation to avoid $scope var every time in code
+-	Named function for controller
+-	Function declarations to abstract underline detail
+-	Bindable members upfront at the top
+-	DI using $inject to overcome issues during bundling and minification.
+-	Wrapping members in init() method for controller activation promises. 
 
-![pastedimage 4](https://cloud.githubusercontent.com/assets/10474169/10745626/98de4ea2-7c11-11e5-9d71-dbc372cbf7a6.png)
-![pastedimage 5](https://cloud.githubusercontent.com/assets/10474169/10745628/98df6ec2-7c11-11e5-89af-e6a75ec1a073.png)
+![6](https://cloud.githubusercontent.com/assets/10474169/11671695/c560afa8-9dcf-11e5-861f-92a96d44f70f.png)
 
-**Route Resolve Promises**
-- When a controller depends on a promise to be resolved before the controller is activated, resolve those dependencies in the $stateProvider before the controller logic is executed. If you need to conditionally cancel a route before the controller is activated, use a route resolver.
+**Service Structure**
+-	Function declarations to abstract underline detail
+-	Accessible members upfront at the top
+-	Singleton object
+-	SRP
 
-![pastedimage 6](https://cloud.githubusercontent.com/assets/10474169/10745629/98eb02e6-7c11-11e5-9b9b-b6422ad025b7.png)
+![7](https://cloud.githubusercontent.com/assets/10474169/11671692/c55e2cce-9dcf-11e5-8e1e-54a4b76571b4.png)
 
-**Bindable Members Up Top**
-- Place bindable members at the top of the controller, alphabetized, and not spread through the controller code.
-- Resolve start-up logic for a controller in an activate function.
-
-![pastedimage 7](https://cloud.githubusercontent.com/assets/10474169/10745633/98ec0826-7c11-11e5-96de-cb8468bb6dd8.png)
-
-**Function Declarations to Hide Implementation Details**
-- Use function declarations to hide implementation details. Keep your bindable members up top. When you need to bind a function in a controller, point it to a function declaration that appears later in the file. This is tied directly to the section Bindable Members Up Top
-
-- Resolve start-up logic for a controller in an activate function.
-
-![pastedimage 8](https://cloud.githubusercontent.com/assets/10474169/10745630/98ebd0f4-7c11-11e5-8e01-db1cdba9ea62.png)
-
-**Separate Data Calls**
-- Refactor logic for making data operations and interacting with data to a factory. Make data services responsible for XHR calls, local storage, stashing in memory, or any other data operations.
-
-![pastedimage 9](https://cloud.githubusercontent.com/assets/10474169/10745632/98ebfdae-7c11-11e5-8712-d0310414bd2e.png)
-
-**Directives**
+**Directive Structure**
+-	DOM manipulation using directive
+-	Controller As and Controller activation promises
+- Restrict of directive to Element and Attribute only
+-	Usage of shared and isolated scope (two way and behavioral binding)
+-	Accessible members upfront & Function declarations to hide detail
+-	SRP
  
-- Create one directive per file. Name the file for the directive.
-- When manipulating the DOM directly, use a directive. 
-- When creating a directive that makes sense as a stand-alone element, allow restrict E (custom element) and optionally restrict A (custom attribute).
-- Use controller as syntax with a directive to be consistent with using controller as with view and controller pairings.
-- Use bindToController = true when using controller as syntax with a directive when you want to bind the outer scope to the directive's controller's scope.
+![8](https://cloud.githubusercontent.com/assets/10474169/11671694/c5605f44-9dcf-11e5-9c5e-fa010f509831.png)
 
-![pastedimage 10](https://cloud.githubusercontent.com/assets/10474169/10745631/98ebbe70-7c11-11e5-8040-de225a3c4d11.png)
+**Shared Services Structure – Example 1**
+- This will be shared service which will be consumed by all modules for executing CRUD operation, Request Type, URL, Parameter Object will be passed to this shared service, so it will make code more maintainable readble and scaleble. If we dont go through this method then we have to use $http.get() or $http.post method very where in services files of each module, content negotiation issues can be simply handled over here, If you want to append anything with each URL like 'Http:\\bing\' then instead of copy it on every service file just hardcode this thing in this file and append URL from thier respective services. We dont need to mention protocol and hostname now in every URL request. It also handles http communication exceptions globally. 
 
+![9](https://cloud.githubusercontent.com/assets/10474169/11671693/c55ef01e-9dcf-11e5-81b7-4f9f6b39f216.png)
 
-**Manual Annotating for Dependency Injection**
-- Avoid using the shortcut syntax of declaring dependencies without using a minification-safe approach.
-Use $inject to manually identify your dependencies for Angular components.
+**Shared Services Structure – Example 2**
+- Below service is used to store value of search text and selected text throughout application using angular factory. 
 
-![pastedimage 11](https://cloud.githubusercontent.com/assets/10474169/10745634/98ee4bae-7c11-11e5-9d19-2fda5b23de05.png)
+![10](https://cloud.githubusercontent.com/assets/10474169/11671690/c55584e8-9dcf-11e5-91d4-98545ef00afc.png)
 
-**Startup Logic**
-- Inject code into module configuration that must be configured before running the angular app. Ideal candidates include providers and constants.
-- Any code that needs to run when an application starts should be declared in a factory, exposed via a function, and injected into the run block.
- 
-![pastedimage 12](https://cloud.githubusercontent.com/assets/10474169/10745637/98f9a1f2-7c11-11e5-8901-80a8eecfffe9.png)
- 
-**Module Dependencies**
-- The application root module depends on the app specific feature modules and any shared or reusable modules.
+**WebAPI Structure**
+- Weather transaction is for images, web, news or composite search, every http call will hit Get function first, and then on basis of mode it will redirect to actual BING api call. We can change underline structure anytime for image, news, web & composite search (for instance we can use google search api), but for client, service contract will be same as GET function is acting as facade here.
 
-![pastedimage 13](https://cloud.githubusercontent.com/assets/10474169/10745638/98f993ce-7c11-11e5-8944-6b08c71af30c.png)
+![11](https://cloud.githubusercontent.com/assets/10474169/11671691/c5570f34-9dcf-11e5-9cc6-8ddf05783645.png)
 
-**Application Structure LIFT Principle**
+**Credentials are stored in web.config and accessed through static class**
+
+![12](https://cloud.githubusercontent.com/assets/10474169/11671689/c547cc54-9dcf-11e5-9334-18d1c5332e01.png)
+
+**Introduction of Template in HTML Structure for SPA**
+
+![13](https://cloud.githubusercontent.com/assets/10474169/11671688/c539e044-9dcf-11e5-82bf-3034dd0aede6.png)
+
+**WebPage Snapshot**
 - LIFT is:
 - Locating our code is easy
 - Identify code at a glance
