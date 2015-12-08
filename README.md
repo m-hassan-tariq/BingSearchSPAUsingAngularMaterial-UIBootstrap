@@ -1,6 +1,6 @@
 # Bing Search Using AngularMaterial & Angular UI Bootstrap
 
-Using Angular Material, Angular UI Bootstrap, ASP.NET WebAPI and Bing API in implementing Bing clone SPA.
+Using Angular Material, Angular UI Bootstrap, ASP.NET WebAPI and Bing API in implementing Bing clone SPA
 
 **Angular Material Directive used**
 - Autocomplete: https://material.angularjs.org/latest/demo/autocomplete
