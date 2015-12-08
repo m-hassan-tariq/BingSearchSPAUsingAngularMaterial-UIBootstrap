@@ -8,7 +8,7 @@ Using Angular Material, Angular UI Bootstrap, ASP.NET WebAPI and Bing API in imp
 - Toast: https://material.angularjs.org/latest/demo/toast
 - GridList: https://material.angularjs.org/latest/demo/gridList
 
-**Angular Material Directive used**
+**Angular UI Bootstrap Directive used**
 - Pagination: https://angular-ui.github.io/bootstrap/#/pagination
 - Carousel: https://angular-ui.github.io/bootstrap/#/carousel
 
@@ -16,17 +16,22 @@ Using Angular Material, Angular UI Bootstrap, ASP.NET WebAPI and Bing API in imp
 
 ![1](https://cloud.githubusercontent.com/assets/10474169/11671501/78512d06-9dce-11e5-85be-c8d904f90f21.png)
 
-**Definitions (aka Setters)**
-- Declare modules without a variable using the setter syntax.
-- When using a module, avoid using a variable and instead use chaining with the getter syntax.
-- Only set once and get for all other instances.
+**Module Directory Structure**
 
-![pastedimage 2](https://cloud.githubusercontent.com/assets/10474169/10745627/98de58a2-7c11-11e5-9d97-643d9bc10ca9.png)
+![2](https://cloud.githubusercontent.com/assets/10474169/11671502/785263e2-9dce-11e5-84cb-ca920a56cf53.png)
 
-**Named vs Anonymous Functions**
-- Use named functions instead of passing an anonymous function in as a callback.
+**Logical Module Division**
 
-![pastedimage 3](https://cloud.githubusercontent.com/assets/10474169/10745624/98dd7a90-7c11-11e5-94e2-5ace27084ad7.png)
+![3](https://cloud.githubusercontent.com/assets/10474169/11671547/e6f240f6-9dce-11e5-9fed-78af550022d3.png)
+
+**App Config contains routing info and App Run contains startup logic**
+
+![4](https://cloud.githubusercontent.com/assets/10474169/11671601/2f3cf3e2-9dcf-11e5-9f4b-606fe1759dea.png)
+
+**Lazy Loading for search page **
+- bing.search module will not be loaded on page load, it will be loaded once user searched any keyword, this is done by resolving promises during route change.
+- 
+![5](https://cloud.githubusercontent.com/assets/10474169/11671602/2f3e3e46-9dcf-11e5-9d53-8ddc3bfb8552.png)
 
 **controllerAs View Syntax**
 - Use the controllerAs syntax over the classic controller with $scope syntax.
