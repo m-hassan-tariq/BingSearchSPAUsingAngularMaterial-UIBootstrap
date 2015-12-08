@@ -86,13 +86,29 @@ Using Angular Material, Angular UI Bootstrap, ASP.NET WebAPI and Bing API in imp
 ![13](https://cloud.githubusercontent.com/assets/10474169/11671688/c539e044-9dcf-11e5-82bf-3034dd0aede6.png)
 
 **WebPage Snapshot**
-- LIFT is:
-- Locating our code is easy
-- Identify code at a glance
-- Flat structure as long as we can
-- Try to stay DRY (Don’t Repeat Yourself) or T-DRY
+- HomePage
 
-Folders-by-Feature Structure:
-- Create folders named for the feature they represent. When a folder grows to contain more than 7 files, start to consider creating a folder for them. Your threshold may be different, so adjust as needed.
+![14](https://cloud.githubusercontent.com/assets/10474169/11671863/d88ec53c-9dd0-11e5-81df-8e45fefef270.png)
 
-![pastedimage 14](https://cloud.githubusercontent.com/assets/10474169/10745635/98f7e5c4-7c11-11e5-9b4f-52297ff0928e.png)
+- Autocomplete
+
+![15](https://cloud.githubusercontent.com/assets/10474169/11671864/d88f28b0-9dd0-11e5-933e-884ab2d290f5.png)
+
+- Main Search Page
+
+![16](https://cloud.githubusercontent.com/assets/10474169/11671866/d890aa46-9dd0-11e5-8a24-4c6eecc29d87.png)
+
+- Web Search Page
+
+![17](https://cloud.githubusercontent.com/assets/10474169/11671867/d89114cc-9dd0-11e5-9f53-95d21312f442.png)
+
+- News Search Page
+
+![18](https://cloud.githubusercontent.com/assets/10474169/11671862/d88ec12c-9dd0-11e5-9140-ecd8220b755d.png)
+
+- Images Search Page
+
+![19](https://cloud.githubusercontent.com/assets/10474169/11671865/d88f61fe-9dd0-11e5-98b9-bbfab719f365.png)
+
+
+
