@@ -1,0 +1,669 @@
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\ngNinja.Web.dll.config
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\ngNinja.Web.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\ngNinja.Web.pdb
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\Antlr3.Runtime.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\EntityFramework.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\Microsoft.Data.OData.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\Newtonsoft.Json.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Net.Http.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Spatial.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.Helpers.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.Http.OData.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.Http.Tracing.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.Mvc.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.Optimization.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.Providers.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.Razor.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.WebPages.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\Web.Optimization.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\WebGrease.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\ngNinja.Model.pdb
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\Antlr3.Runtime.pdb
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\EntityFramework.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\Newtonsoft.Json.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.Optimization.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Net.Http.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.Helpers.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.Mvc.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.Razor.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.WebPages.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.Http.Tracing.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Web.Http.OData.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\Microsoft.Data.OData.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\System.Spatial.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\de\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\es\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\it\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\obj\Debug\Bing.Web.csprojResolveAssemblyReference.cache
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\obj\Debug\ngNinja.Web.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Web\obj\Debug\ngNinja.Web.pdb
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Web.dll.config
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Web.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Web.pdb
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\Antlr3.Runtime.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.OData.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\Newtonsoft.Json.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Spatial.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Helpers.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.OData.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.Tracing.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Mvc.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Optimization.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Providers.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Razor.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\Web.Optimization.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\WebGrease.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Model.pdb
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\Antlr3.Runtime.pdb
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\Newtonsoft.Json.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Optimization.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Helpers.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Mvc.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Razor.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.Tracing.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.OData.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.OData.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Spatial.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\Bing.Web.csprojResolveAssemblyReference.cache
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\ngNinja.Web.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\ngNinja.Web.pdb
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Services.Client.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Services.Client.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\Bing.Web.csprojResolveAssemblyReference.cache
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\ngNinja.Web.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\ngNinja.Web.pdb
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Web.dll.config
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Web.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Web.pdb
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\Antlr3.Runtime.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.SqlServer.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Edm.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.OData.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Services.Client.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\Newtonsoft.Json.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Model.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.IO.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Extensions.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Formatting.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Primitives.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.WebRequest.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Runtime.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Spatial.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Threading.Tasks.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Helpers.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.OData.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.Tracing.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.WebHost.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Mvc.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Optimization.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Providers.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Razor.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Deployment.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Razor.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\Web.Optimization.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\WebGrease.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Model.pdb
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\Antlr3.Runtime.pdb
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.SqlServer.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Edm.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.OData.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Services.Client.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\Newtonsoft.Json.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.IO.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Extensions.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Primitives.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.WebRequest.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Runtime.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Spatial.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Threading.Tasks.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Optimization.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Formatting.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Helpers.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.WebHost.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Mvc.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Razor.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Deployment.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Razor.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.Tracing.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.OData.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\Bing.Web.csproj.App.config
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Web.dll.config
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Web.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Web.pdb
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\Antlr3.Runtime.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.SqlServer.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Edm.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.OData.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Services.Client.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\Newtonsoft.Json.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Model.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.IO.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Extensions.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Formatting.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Primitives.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.WebRequest.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Runtime.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Spatial.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Threading.Tasks.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Helpers.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.OData.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.Tracing.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.WebHost.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Mvc.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Optimization.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Providers.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Razor.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Deployment.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Razor.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\Web.Optimization.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\WebGrease.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Model.pdb
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\Antlr3.Runtime.pdb
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.SqlServer.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Edm.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.OData.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Services.Client.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\Newtonsoft.Json.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.IO.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Extensions.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Primitives.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.WebRequest.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Runtime.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Spatial.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Threading.Tasks.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Optimization.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Formatting.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Helpers.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.WebHost.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Mvc.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Razor.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Deployment.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Razor.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.Tracing.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.OData.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\Microsoft.Data.Edm.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\Microsoft.Data.Edm.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\Microsoft.Data.Edm.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\Microsoft.Data.OData.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\Microsoft.Data.OData.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\Microsoft.Data.OData.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\Microsoft.Data.OData.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\Microsoft.Data.OData.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\Microsoft.Data.OData.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\Microsoft.Data.OData.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\Microsoft.Data.Services.Client.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\Microsoft.Data.Services.Client.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\Microsoft.Data.Services.Client.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\Microsoft.Data.Services.Client.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\Microsoft.Data.Services.Client.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\Microsoft.Data.Services.Client.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\Microsoft.Data.Services.Client.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\System.Spatial.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\System.Spatial.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\System.Spatial.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\System.Spatial.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\System.Spatial.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\System.Spatial.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\System.Spatial.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\System.Spatial.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\System.Spatial.resources.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\Bing.Web.csproj.App.config
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\ngNinja.Web.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\ngNinja.Web.pdb
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Web.dll.config
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Web.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Web.pdb
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Antlr3.Runtime.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.SqlServer.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Edm.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.OData.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Services.Client.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Newtonsoft.Json.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Model.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.IO.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Extensions.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Formatting.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Primitives.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.WebRequest.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Runtime.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Spatial.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Threading.Tasks.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Helpers.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.OData.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.Tracing.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.WebHost.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Mvc.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Optimization.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Providers.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Razor.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Deployment.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Razor.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Web.Optimization.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\WebGrease.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Model.pdb
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Antlr3.Runtime.pdb
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.SqlServer.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Edm.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.OData.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Services.Client.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Newtonsoft.Json.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.IO.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Extensions.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Primitives.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.WebRequest.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Runtime.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Spatial.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Threading.Tasks.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Optimization.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Formatting.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Helpers.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.WebHost.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Mvc.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Razor.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Deployment.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Razor.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.Tracing.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.OData.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\System.Spatial.resources.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\Bing.Web.csproj.App.config
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\Bing.Web.csprojResolveAssemblyReference.cache
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\ngNinja.Web.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\ngNinja.Web.pdb
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Web.dll.config
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Web.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Web.pdb
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Antlr3.Runtime.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.OData.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Services.Client.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Newtonsoft.Json.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.IO.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Runtime.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Spatial.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Threading.Tasks.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Helpers.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.OData.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.Tracing.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Mvc.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Optimization.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Providers.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Razor.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Web.Optimization.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\WebGrease.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ngNinja.Model.pdb
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Antlr3.Runtime.pdb
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.OData.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Microsoft.Data.Services.Client.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\Newtonsoft.Json.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.IO.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Extensions.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.Primitives.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Runtime.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Spatial.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Threading.Tasks.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Optimization.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Helpers.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Mvc.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Razor.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.Tracing.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\System.Web.Http.OData.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\de\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\es\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\it\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\Bing.Web.csproj.App.config
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\Bing.Web.csprojResolveAssemblyReference.cache
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\ngNinja.Web.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Web\obj\Debug\ngNinja.Web.pdb
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\ngNinja.Web.dll.config
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\ngNinja.Web.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\ngNinja.Web.pdb
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\Antlr3.Runtime.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\EntityFramework.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\Microsoft.Data.OData.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\Microsoft.Data.Services.Client.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\Newtonsoft.Json.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.IO.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Net.Http.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Runtime.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Spatial.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Threading.Tasks.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.Helpers.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.Http.OData.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.Http.Tracing.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.Mvc.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.Optimization.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.Providers.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.Razor.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.WebPages.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\Web.Optimization.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\WebGrease.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\ngNinja.Model.pdb
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\Antlr3.Runtime.pdb
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\EntityFramework.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\Microsoft.Data.OData.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\Microsoft.Data.Services.Client.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\Newtonsoft.Json.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.IO.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Net.Http.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Net.Http.Extensions.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Net.Http.Primitives.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Runtime.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Spatial.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Threading.Tasks.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.Optimization.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.Helpers.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.Mvc.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.Razor.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.WebPages.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.Http.Tracing.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\System.Web.Http.OData.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\de\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\es\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\it\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\obj\Debug\Bing.Web.csproj.App.config
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\obj\Debug\ngNinja.Web.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Web\obj\Debug\ngNinja.Web.pdb

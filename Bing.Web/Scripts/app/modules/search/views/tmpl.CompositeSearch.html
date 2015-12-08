@@ -1,0 +1,49 @@
+﻿<div ng-cloak="">
+    <span ng-show="vm.webResult[0].SpellingSuggestions.length < 1">No suggestions available</span>
+    <span ng-show="vm.webResult[0].SpellingSuggestions.length > 0">Also try: </span>
+    <div ng-repeat="item in vm.webResult[0].SpellingSuggestions track by $id(item)">{{item.Value}} &nbsp;</div>
+    <br>
+    <span ng-show="vm.webResult.length > 0">{{vm.webResult[0].WebTotal}} Results</span>
+
+    <div ng-repeat="item in vm.webResult[0].Web | limitTo:1 track by $id(item)" class="searchGrid">
+        <h5><a ng-href="{{item.Url}}" target="_blank">{{item.Title}}</a></h5>
+        <h6>{{item.DisplayUrl}}</h6>
+        {{item.Description}}
+    </div>
+
+    <h5 ng-show="vm.webResult[0].News.length > 0">News about <b>{{vm.selectedText}}</b></h5>
+    <div ng-repeat="item in vm.webResult[0].News | limitTo:3 | orderBy:'-Date' track by $id(item)">
+        <h6><a ng-href="{{item.Url}}" target="_blank">{{item.Title}}</a><br></h6>
+        <span class="green">{{item.Source}} {{item.Date | amDifference : null : 'minutes' }} minutes ago</span><br>
+        <span>{{item.Description}}</span>
+    </div>
+
+    <br />
+
+    <h5 ng-show="vm.webResult[0].Web.length > 0">Search results about <b>{{vm.selectedText}}</b></h5>
+    <div ng-repeat="item in vm.webResult[0].Web track by $id(item)" class="searchGrid">
+        <h5><a ng-href="{{item.Url}}" target="_blank">{{item.Title}}</a></h5>
+        <h6>{{item.DisplayUrl}}</h6>
+        {{item.Description}}
+    </div>
+
+    <br />
+
+    <h5 ng-show="vm.webResult[0].Image.length > 0">Images of <b>{{vm.selectedText}}</b></h5>
+    <div ng-repeat="item in vm.webResult[0].Image | limitTo:4 track by $id(item)" class="webImages">
+        <a ng-href="{{item.MediaUrl}}" target="_blank"><img style="display: inline; margin: 0 5px;" ng-src="{{item.Thumbnail.MediaUrl}}" width="250" height="150" /></a>
+    </div>
+
+    <br />
+
+    <h5 ng-show="vm.webResult[0].RelatedSearch.length > 0">Related Searches for <b>{{vm.selectedText}}</b></h5>
+    <span ng-show="vm.webResult[0].RelatedSearch.length < 1">No related search available</span>
+    <div ng-repeat="item in vm.webResult[0].RelatedSearch track by $id(item)">
+        <a ng-href="{{item.BingUrl}}" target="_blank">{{item.Title}}</a>
+    </div>
+
+    <br />
+
+    <pagination ng-show="vm.webtotalItems > 10" total-items="vm.webtotalItems" ng-model="vm.currentPage" num-pages="smallnumPages" items-per-page="vm.itemsPerPage"
+                ng-change="vm.searchResult(false)" max-size="10"></pagination>
+</div>

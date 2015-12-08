@@ -1,0 +1,10 @@
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\bin\Release\ngNinja.Model.dll.config
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\bin\Release\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\bin\Release\ngNinja.Model.pdb
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\bin\Release\EntityFramework.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\bin\Release\EntityFramework.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\obj\Release\Bing.Model.csprojResolveAssemblyReference.cache
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\obj\Release\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\obj\Release\ngNinja.Model.pdb

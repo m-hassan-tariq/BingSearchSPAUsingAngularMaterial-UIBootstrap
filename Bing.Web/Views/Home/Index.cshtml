@@ -1,0 +1,27 @@
+﻿@{
+    Layout = null;
+}
+<!doctype html>
+<html class="no-js" ng-app="bing">
+<head>
+    <meta charset="utf-8">
+    <title>Bing</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    @Styles.Render(" ~/Content/css")
+    @Scripts.Render("~/Angular")
+    @Scripts.Render("~/AngularApp")
+
+</head>
+<body>
+    <div id="applicationHost" class="container body-content admin-appHost">
+        <div data-ng-include="'/Scripts/app/modules/layout/views/shell.html'"></div>
+    </div>
+    <div id="footer">
+        <div class="container">
+            <span class="pull-right text-info credit">Test Project - Hassan</span>
+        </div>
+    </div>
+</body>
+</html>

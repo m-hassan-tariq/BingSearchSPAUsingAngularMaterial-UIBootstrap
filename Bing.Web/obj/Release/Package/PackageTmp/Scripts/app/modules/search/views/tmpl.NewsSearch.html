@@ -1,0 +1,10 @@
+﻿<div ng-repeat="item in vm.webResult track by $id(item)">
+    <br>
+    <h5><a ng-href="{{item.Url}}" target="_blank">{{item.Title}}</a></h5>
+    <span>{{item.Description}}<br /></span>
+    <span class="green">{{item.Source}} {{item.Date | amDifference : null : 'minutes' }} minutes ago</span><br>
+    <br>
+</div>
+<br />
+<pagination ng-show="vm.newstotalItems > 10" total-items="vm.newstotalItems" ng-model="vm.currentPage" num-pages="smallnumPages" items-per-page="vm.itemsPerPage"
+            ng-change="vm.searchResult(false)" max-size="10"></pagination>

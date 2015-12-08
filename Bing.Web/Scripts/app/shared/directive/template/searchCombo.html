@@ -1,0 +1,12 @@
+﻿<ul class="list-inline">
+    <li class="mdauto">
+        <md-autocomplete md-selected-item="vm.selectedItem" md-search-text="vm.searchText" md-items="item in vm.searchResult" md-item-text="item.Title"
+                         md-search-text-change="vm.search()" md-selected-item-change="vm.showSearchResult()" md-no-cache="false">
+            <span md-highlight-text="vm.searchText">{{item.Title}}</span>
+        </md-autocomplete>
+    </li>
+    <li><button class="btn btn-primary btnAlign" type="button" ng-click="vm.showManualSearchResult()">Search</button></li>
+</ul>
+
+
+

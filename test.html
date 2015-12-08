@@ -1,0 +1,102 @@
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>TAC Sample Angular Utility</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/Content/bootstrap/css/bootstrap.paper.min.css" rel="stylesheet"/>
+
+    <link href="/Content/Main.css" rel="stylesheet"/>
+
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/0.11.2/angular-material.min.css">
+
+    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+    <script src="/Scripts/lib/angular-ui-router/angular-ui-router.js"></script>
+    <script src="/Scripts/lib/angular-resource/angular-resource.js"></script>
+    <script src="/Scripts/lib/angular-ui/ui-bootstrap-tpls.js"></script>
+    <script src="/Scripts/lib/oc-lazy-load/ocLazyLoad.js"></script>
+    <script src="/Scripts/lib/loadash/lodash.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-animate.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-aria.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angular_material/0.11.2/angular-material.min.js"></script>
+
+<script>
+
+(function () {
+
+    angular
+        .module('onBoardingApp', ['ngMaterial'])
+        .controller('HomeController', homeController);
+
+    homeController.$inject = ['$timeout', '$q'];
+
+    function homeController( $timeout, $q) {
+        var vm = this;
+
+        // list of `state` value/display objects
+        vm.states = loadAll();
+        vm.selectedItem = null;
+        vm.searchText = null;
+        vm.querySearch = querySearch;
+
+        function querySearch(query) {
+            var results = query ? vm.states.filter(createFilterFor(query)) : [];
+            return results;
+        }
+
+        function loadAll() {
+            var allStates = 'Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware,\
+              Florida, Georgia';
+
+            return allStates.split(/, +/g).map(function (state) {
+                return {
+                    value: state.toLowerCase(),
+                    display: state
+                };
+            });
+        }
+
+        function createFilterFor(query) {
+            var lowercaseQuery = angular.lowercase(query);
+
+            return function filterFn(state) {
+                return (state.value.indexOf(lowercaseQuery) === 0);
+            };
+
+        }
+
+
+        // Controller Activation Promises: Resolve start-up logic for a controller in an init function.
+        init();
+
+        function init() {
+            vm.showAction = false;
+            vm.test = ['cat', 'dog', 'deer']
+        }
+
+    };
+
+})();
+
+</script>
+
+
+</head>
+<body ng-app="onBoardingApp" ng-controller="HomeController as vm">
+    <div>
+    <h2>Admin Home</h2>sda // {{vm.test[0]}}
+  
+    <div class="jumbotron">
+        <div>
+            <md-autocomplete md-selected-item="selectedItem" md-search-text="searchText" md-items="item in ['a', 'b']" md-item-text="item">
+              <span md-highlight-text="searchText">{{item}}</span>
+            </md-autocomplete>
+        </div>
+    </div>
+</div>
+</body>
+</html>

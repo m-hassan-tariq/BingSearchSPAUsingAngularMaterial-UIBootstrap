@@ -1,0 +1,19 @@
+﻿<div data-ng-controller="ShellController">
+    <div id="adminNavBar" class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" ui-sref="home">
+                    <i class="icon-home"></i>
+                    <span>Bing Search</span>
+                </a>
+            </div>
+            <div class="collapse navbar-collapse" data-ng-class="{'in': !navCollapsed}">
+                <ul class="nav navbar-nav">
+                    <li><a data-toggle="collapse" data-target=".navbar-collapse" ui-sref="home">Home</a></li>
+                    <li><a data-toggle="collapse" data-target=".navbar-collapse" ui-sref="search">Search</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div data-ui-view></div>
+</div>

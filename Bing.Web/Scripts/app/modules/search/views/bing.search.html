@@ -1,0 +1,31 @@
+﻿<div>
+    <div ng-cloak="">
+        <div search-combo showsearchresult="vm.showSearchResult" searchtext="vm.searchText"></div>
+        <md-progress-linear ng-show="vm.showLoader" md-mode="{{vm.spinnerMode}}"></md-progress-linear>
+        <md-content class="tabsdemoDynamicHeight">
+            <md-tabs md-dynamic-height="" md-border-bottom="" md-selected="vm.selectedIndex">
+                <md-tab label="Composite" md-on-select="vm.searchResult(true)">
+                    <md-content class="md-padding">
+                        <div ng-include src="'Scripts/app/modules/search/views/tmpl.CompositeSearch.html'"></div>
+                    </md-content>
+                </md-tab>
+                <md-tab label="Web" md-on-select="vm.searchResult(true)">
+                    <md-content class="md-padding searchGrid">
+                        <div ng-include src="'Scripts/app/modules/search/views/tmpl.WebSearch.html'"></div>
+                    </md-content>
+                </md-tab>
+                <md-tab label="News" md-on-select="vm.searchResult(true)">
+                    <md-content class="md-padding">
+                        <div ng-include src="'Scripts/app/modules/search/views/tmpl.NewsSearch.html'"></div>
+                    </md-content>
+                </md-tab>
+                <md-tab label="Images" md-on-select="vm.searchResult(true)">
+                    <md-content class="md-padding">
+                        <div ng-include src="'Scripts/app/modules/search/views/tmpl.ImageSearch.html'"></div>
+                    </md-content>
+                </md-tab>
+            </md-tabs>
+        </md-content>
+        <md-progress-linear ng-show="vm.showLoader" md-mode="{{vm.spinnerMode}}"></md-progress-linear>
+    </div>
+</div>

@@ -1,0 +1,17 @@
+﻿<div class="row">
+    <div class="container-fluid">
+            <carousel interval="vm.myInterval">
+                <slide ng-repeat="slide in vm.slides" active="slide.active">
+                    <img class="home" ng-src="{{slide.image}}">
+                    <div class="carousel-caption">
+                    </div>
+                </slide>
+            </carousel>
+        <div class="row">
+            <div class="col-md-12" style="margin-top:25px;">
+                    <div search-combo showsearchresult="vm.showSearchResult" searchtext="null"></div>
+            </div>
+        </div>  
+    </div>
+</div>
+

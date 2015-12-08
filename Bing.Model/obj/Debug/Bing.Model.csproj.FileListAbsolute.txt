@@ -1,0 +1,68 @@
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Model\bin\Debug\ngNinja.Model.dll.config
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Model\bin\Debug\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Model\bin\Debug\ngNinja.Model.pdb
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Model\bin\Debug\EntityFramework.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Model\bin\Debug\EntityFramework.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Model\obj\Debug\Bing.Model.csprojResolveAssemblyReference.cache
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Model\obj\Debug\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\ngNinja.Model\obj\Debug\ngNinja.Model.pdb
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\ngNinja.Model.dll.config
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\ngNinja.Model.pdb
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Model\obj\Debug\Bing.Model.csprojResolveAssemblyReference.cache
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Model\obj\Debug\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master\SampleAngularJsStyleGuide-master\Bing.Model\obj\Debug\ngNinja.Model.pdb
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\ngNinja.Model.dll.config
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\ngNinja.Model.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\ngNinja.Model.pdb
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Model\obj\Debug\Bing.Model.csprojResolveAssemblyReference.cache
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Model\obj\Debug\ngNinja.Model.dll
+F:\Proj\SampleAngularJsStyleGuide-master (4)\SampleAngularJsStyleGuide-master\Bing.Model\obj\Debug\ngNinja.Model.pdb
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\ngNinja.Model.dll.config
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\ngNinja.Model.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\ngNinja.Model.pdb
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Model\obj\Debug\Bing.Model.csprojResolveAssemblyReference.cache
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Model\obj\Debug\ngNinja.Model.dll
+E:\SampleAngularJsStyleGuide-master5\SampleAngularJsStyleGuide-master\Bing.Model\obj\Debug\ngNinja.Model.pdb
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\ngNinja.Model.dll.config
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\ngNinja.Model.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\ngNinja.Model.pdb
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\obj\Debug\Bing.Model.csprojResolveAssemblyReference.cache
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\obj\Debug\ngNinja.Model.dll
+F:\Proj\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\obj\Debug\ngNinja.Model.pdb
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\ngNinja.Model.dll.config
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\ngNinja.Model.pdb
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\obj\Debug\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\MS\SampleAngularJsStyleGuide-master-zain (2)\SampleAngularJsStyleGuide-master-zain\SampleAngularJsStyleGuide-master\Bing.Model\obj\Debug\ngNinja.Model.pdb
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\bin\Debug\ngNinja.Model.dll.config
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\bin\Debug\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\bin\Debug\ngNinja.Model.pdb
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\bin\Debug\EntityFramework.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\bin\Debug\EntityFramework.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\obj\Debug\ngNinja.Model.dll
+C:\Users\hassan.muhammad\Desktop\MS\bing\Bing.Model\obj\Debug\ngNinja.Model.pdb

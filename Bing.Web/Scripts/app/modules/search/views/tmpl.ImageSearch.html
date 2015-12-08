@@ -1,0 +1,6 @@
+﻿<div ng-repeat="item in vm.webResult track by $id(item)" class="webImages" ng-cloak="">
+    <a ng-href="{{item.MediaUrl}}" target="_blank"><img style="display: inline; margin: 0 5px;" ng-src="{{item.Thumbnail.MediaUrl}}" width="250" height="150" /></a>
+</div>
+<br />
+<pagination ng-show="vm.imagestotalItems > 10" total-items="vm.imagestotalItems" ng-model="vm.currentPage" num-pages="smallnumPages" items-per-page="vm.itemsPerPage"
+            ng-change="vm.searchResult(false)" max-size="10"></pagination>

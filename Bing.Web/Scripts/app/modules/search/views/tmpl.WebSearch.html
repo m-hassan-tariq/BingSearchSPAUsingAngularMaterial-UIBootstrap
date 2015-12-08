@@ -1,0 +1,10 @@
+﻿<div ng-repeat="item in vm.webResult track by $id(item)" ng-cloak="">
+    <br>
+    <h5><a ng-href="{{item.Url}}" target="_blank">{{item.Title}}</a> </h5>
+    <h6>{{item.DisplayUrl}}</h6>
+    {{item.Description}}
+    <br>
+</div>
+<br />
+<pagination ng-show="vm.webtotalItems > 10" total-items="vm.webtotalItems" ng-model="vm.currentPage" num-pages="smallnumPages" items-per-page="vm.itemsPerPage"
+            ng-change="vm.searchResult(false)" max-size="10"></pagination>
