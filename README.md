@@ -88,11 +88,11 @@ Using Angular Material, Angular UI Bootstrap, ASP.NET WebAPI and Bing API in imp
 **WebPage Snapshot**
 - HomePage
 
-![14](https://cloud.githubusercontent.com/assets/10474169/11671863/d88ec53c-9dd0-11e5-81df-8e45fefef270.png)
+![15](https://cloud.githubusercontent.com/assets/10474169/11671864/d88f28b0-9dd0-11e5-933e-884ab2d290f5.png)
 
 - Autocomplete
 
-![15](https://cloud.githubusercontent.com/assets/10474169/11671864/d88f28b0-9dd0-11e5-933e-884ab2d290f5.png)
+![14](https://cloud.githubusercontent.com/assets/10474169/11671863/d88ec53c-9dd0-11e5-81df-8e45fefef270.png)
 
 - Main Search Page
 
@@ -110,5 +110,10 @@ Using Angular Material, Angular UI Bootstrap, ASP.NET WebAPI and Bing API in imp
 
 ![19](https://cloud.githubusercontent.com/assets/10474169/11671865/d88f61fe-9dd0-11e5-98b9-bbfab719f365.png)
 
+- Notification: In case of communication error message and vertical laoder is spinning
 
+![21](https://cloud.githubusercontent.com/assets/10474169/11671948/95009c0e-9dd1-11e5-8c58-8f4d6e214559.png)
 
+- Notification: If search button is pressed without any keyword
+
+![20](https://cloud.githubusercontent.com/assets/10474169/11671949/950d59a8-9dd1-11e5-97c1-12e96b72a0ae.png)
