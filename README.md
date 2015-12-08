@@ -1,9 +1,16 @@
-# SampleAngularJsStyleGuide
+# BingSearchUsingAngularMaterial
 
-Angular Style Guide for enterprise and large-scale projects
+Using Angular Material, Angular UI Bootstrap, ASP.NET WebAPI and Bing API in implementing Bing clone SPA.
 
-**Single Responsibility**
-- Define 1 component per file.
+**Angular Material Directive used**
+- Autocomplete: https://material.angularjs.org/latest/demo/autocomplete
+- Dynamic Tab: https://material.angularjs.org/latest/demo/tabs
+- Toast: https://material.angularjs.org/latest/demo/toast
+- GridList: https://material.angularjs.org/latest/demo/gridList
+
+**Angular Material Directive used**
+- Pagination: https://angular-ui.github.io/bootstrap/#/pagination
+- Carousel: https://angular-ui.github.io/bootstrap/#/carousel
 
 ![pastedimage](https://cloud.githubusercontent.com/assets/10474169/10745636/98f8b3f0-7c11-11e5-88e4-1006af091206.png)
 
