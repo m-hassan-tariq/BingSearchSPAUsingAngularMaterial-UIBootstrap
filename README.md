@@ -1,4 +1,4 @@
-# BingSearchUsingAngularMaterial
+# Bing Search Using AngularMaterial and Angular UI Bootstrap
 
 Using Angular Material, Angular UI Bootstrap, ASP.NET WebAPI and Bing API in implementing Bing clone SPA.
 
