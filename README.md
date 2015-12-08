@@ -30,7 +30,7 @@ Using Angular Material, Angular UI Bootstrap, ASP.NET WebAPI and Bing API in imp
 
 **Lazy Loading for search page **
 - bing.search module will not be loaded on page load, it will be loaded once user searched any keyword, this is done by resolving promises during route change.
-- 
+
 ![5](https://cloud.githubusercontent.com/assets/10474169/11671602/2f3e3e46-9dcf-11e5-9d53-8ddc3bfb8552.png)
 
 **controllerAs View Syntax**
