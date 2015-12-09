@@ -2,7 +2,7 @@
 
 Using Angular Material, Angular UI Bootstrap, ASP.NET WebAPI and Bing API in implementing Bing clone SPA
 
-**Angular Material Directive used**
+###Angular Material Directive used###
 - Autocomplete: https://material.angularjs.org/latest/demo/autocomplete
 - Dynamic Tab: https://material.angularjs.org/latest/demo/tabs
 - Toast: https://material.angularjs.org/latest/demo/toast
